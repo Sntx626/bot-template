@@ -1,5 +1,9 @@
+import json
+
 import discord
 from discord.ext import commands
+
+config = json.load(open("config.json"))["bot-template"] # Needs to be the same as in `config.json`!
 
 class BotTemplate(commands.Cog):
 
