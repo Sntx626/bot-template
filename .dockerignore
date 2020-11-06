@@ -1,8 +1,0 @@
-# git
-.git
-.gitignore
-.gitmodules
-
-# other
-config.json.example
-README.md
