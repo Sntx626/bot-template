@@ -17,3 +17,4 @@ This json file will be used to create a `config.json` file. The contents of `con
 ### The file `requirements.txt`
 
 These requirements will be appended to the `requirements.txt` file of the main bot.
+
